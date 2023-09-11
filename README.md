@@ -1,11 +1,8 @@
-# handbook
-How to build a high performing hybrid tech team
+# The handbook
 
 **Handbook for Building High Performing Hybrid Teams**
 
 **Table of Contents**
-
-
 
 * Introduction
 * Understanding Hybrid Teams
